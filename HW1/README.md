@@ -20,6 +20,7 @@
     - SimCLR: ImageNet with 625 train and 125 test images + 1250 Augmented, Batch Size = 50, Number of Epoch = 10, Temperature = 0.05
 * **Tensorflow** (0.956)
     - SimCLR: ImageNet with 625 train and 125 test images + 1250 Augmented, Batch Size = 2, Number of Epoch = 100, Temperature = 0.1
+    
 _**Note - Result can change with bigger dataset and different projection head**_
 
 Reference/Modified code from the following notebooks: 
