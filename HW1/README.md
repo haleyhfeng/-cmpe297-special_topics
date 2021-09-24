@@ -15,13 +15,12 @@
 * **ReLU Activation Layer**
 * **TSNE Visualization** 
 
-**Lowest Loss Achieved**:
-* **Pytorch**
-    - SimCLR: Randomly select 10k training data + extra 30k augmented, Batch Size = 3, Number of Epoch = 100, Temperature = 0.1
-    - Linear Model with Non-linear Projection (Train Acc = % , Testing Acc = % )
-* **Tensorflow**
-    - SimCLR: Randomly select 10k training data + extra 30k augmented, Batch Size = 3, Number of Epoch = 100, Temperature = 0.1
-    - Linear Model with Non-linear Projection (Train Acc = % , Testing Acc = % )
+**SimCLR Loss Achieved**:
+* **Pytorch** ()
+    - SimCLR: ImageNet with 625 train and 125 test images + 1250 Augmented, Batch Size = 50, Number of Epoch = 10, Temperature = 0.05
+* **Tensorflow** (0.956)
+    - SimCLR: ImageNet with 625 train and 125 test images + 1250 Augmented, Batch Size = 2, Number of Epoch = 100, Temperature = 0.1
+_**Note - Result can change with bigger dataset and different projection head**_
 
 Reference/Modified code from the following notebooks: 
 * https://medium.com/analytics-vidhya/understanding-simclr-a-simple-framework-for-contrastive-learning-of-visual-representations-d544a9003f3c
