@@ -16,9 +16,9 @@
 * **TSNE Visualization** 
 
 **SimCLR Loss Achieved**:
-* **Pytorch** (Linear Model Test Accuracy with SimCLR = 0.56)
+* **Pytorch** (Linear Model Test Accuracy with SimCLR = 0.67)
     - SimCLR: ImageNet using only Elephant, Car, and Airplane Images, Batch Size = 50, Number of Epoch = 10, Temperature = 0.05
-* **Tensorflow** (Linear Model Test Accuracy with SimCLR  = 0.54)
+* **Tensorflow** (Linear Model Test Accuracy with SimCLR  = 0.72)
     - SimCLR: ImageNet using only Elephant, Car, and Airplane Images, Batch Size = 32, Number of Epoch = 50, Temperature = 0.1
     
 _**Note - Result can change with bigger dataset and different projection head**_
