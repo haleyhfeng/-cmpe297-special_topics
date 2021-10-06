@@ -4,26 +4,16 @@
 
 **Build with**:
 * _**Keras - Perceiver**_ (1) 
-* _**Perceiver**_ (2) 
+* _**DeepMind - Perceiver IO**_ (2) 
 
 ![data_aug](https://user-images.githubusercontent.com/46875754/134620941-faea7495-74b1-4ad8-a2b7-1b08d70de2e3.png)
 
 **Techniques applied**:
-* **Image Augmentation (Random Crop/Resize/Color Distortion)** 
-* **ResNet18 and ResNet50**
-* **Contrastive Loss (NT-XEnt)**
-* **ReLU Activation Layer**
-* **TSNE Visualization** 
-
-**SimCLR Loss Achieved**:
-* **Pytorch** (Linear Model Test Accuracy with SimCLR = 0.67)
-    - SimCLR: ImageNet using only Elephant, Car, and Airplane Images, Batch Size = 50, Number of Epoch = 10, Temperature = 0.05
-* **Tensorflow** (Linear Model Test Accuracy with SimCLR  = 0.72)
-    - SimCLR: ImageNet using only Elephant, Car, and Airplane Images, Batch Size = 32, Number of Epoch = 50, Temperature = 0.1
-    
-_**Note - Result can change with bigger dataset and different projection head**_
+* **Image Augmentation** 
+* **Cross Attention**
+* **Transformer**
 
 Reference/Modified code from the following notebooks: 
-* https://medium.com/analytics-vidhya/understanding-simclr-a-simple-framework-for-contrastive-learning-of-visual-representations-d544a9003f3c
-* https://github.com/sayakpaul/SimCLR-in-TensorFlow-2
+* https://keras.io/examples/vision/perceiver_image_classification/
+* https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/perceiver_image_classification.ipynb
 
