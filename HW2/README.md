@@ -8,8 +8,6 @@
 * _**DeepMind - Perceiver IO**_ (2) 
 **Masked Language Modeling**:  Predict the last word (masked) for 36,937 famous quotes 
 
-![data_aug](https://user-images.githubusercontent.com/46875754/134620941-faea7495-74b1-4ad8-a2b7-1b08d70de2e3.png)
-
 **Techniques applied**:
 * **Image Augmentation** 
 * **Cross Attention**
