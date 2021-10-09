@@ -4,7 +4,7 @@
 
 **Build with**:
 * _**Keras - Perceiver**_ (1) 
-**Image Classification**: Classify Cifar100 dataset
+**Image Classification**: Classify 4 classes from the Cifar100 dataset
 * _**DeepMind - Perceiver IO**_ (2) 
 **Masked Language Modeling**:  Predict the last word (masked) for 36,937 famous quotes 
 
