@@ -4,15 +4,15 @@
 
 **Build with**:
 * _**BERT - distilbert-base-uncased**_ (1) 
-**Classification**: Classify 
+**Classification**: classify text using GLUE   
 * _**BERT - t5-small**_ (2) 
-**Summarization**: Classify 
-* _**BERT - distilbert-base-uncased**_ (3) 
-**Question-Answering**: Classify 
-* _**BERT - distilbert-base-uncased**_ (4) 
+**Summarization**: summarize text using XSum dataset  
+* _**BERT - **_ (3) 
+**Question-Answering**:  
+* _**BERT - **_ (4) 
 **Translation**: Classify 
-* _**BERT - distilbert-base-uncased**_ (5) 
-**Entity Recognition**: Classify 
+* _**BERT - **_ (5) 
+**Entity Recognition**:  
 
 **Techniques applied**:
 * **Text Preprocessing** 
