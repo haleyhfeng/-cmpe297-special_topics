@@ -21,6 +21,8 @@
 * **Transfer Learning**
 * **Deployment with Gradio Web App**
 * **Log with Tensorboard**
+<img width="1368" alt="Screen Shot 2021-10-23 at 3 33 32 AM" src="https://user-images.githubusercontent.com/46875754/138552668-24f63f0d-530d-4b1b-8680-d37432c65ccf.png">
+
 
 Reference/Modified code from the following notebooks: 
 * https://huggingface.co/transformers/notebooks.html
