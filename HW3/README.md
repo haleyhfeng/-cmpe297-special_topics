@@ -10,7 +10,7 @@
 * _**BERT - Summarization**_ (2) 
 : summarize a long piece of text using XSum dataset fine-tuned with t5-small  
 * _**BERT - Question-Answering**_ (3) 
-: simple question and answering using SQuAD dataset fine-tuned with distilbert-base-uncased model
+: simple extractive question and answering using SQuAD dataset fine-tuned with distilbert-base-uncased model
 * _**BERT - Translation**_ (4) 
 : translate english text into Romanian using WMT dataset fine-tuned with Helsinki-NLP/opus-mt-en-ro 
 * _**BERT - Causal Language Modeling**_ (5) 
