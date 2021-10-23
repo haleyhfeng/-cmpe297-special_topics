@@ -5,6 +5,8 @@
 **Build with**:
 * _**BERT - Classification**_ (1) 
 : classify text as grammatically correct/incorrect using GLUE fine-tuned with distilbert-base-uncased model
+<img width="999" alt="Screen Shot 2021-10-23 at 3 27 30 AM" src="https://user-images.githubusercontent.com/46875754/138552615-951a5a5f-adc8-4eda-8757-f63ba095f042.png">
+
 * _**BERT - Summarization**_ (2) 
 : summarize a long piece of text using XSum dataset fine-tuned with t5-small  
 * _**BERT - Question-Answering**_ (3) 
