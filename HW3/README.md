@@ -21,8 +21,7 @@
 
 * _**BERT - Causal Language Modeling**_ (5) 
 : generate text to a sentence using Wikitext 2 dataset fine-tuned with distilgpt2 model
-<img width="1007" alt="Screen Shot 2021-10-23 at 4 09 16 AM" src="https://user-images.githubusercontent.com/46875754/138553640-70316a63-f464-4393-83d3-acae7649035c.png">
-
+<img width="1005" alt="Screen Shot 2021-10-27 at 7 44 27 PM" src="https://user-images.githubusercontent.com/46875754/139177374-34c60334-6099-4e8f-91f0-0ce8f9a265bf.png">
 
 **Techniques applied**:
 * **Text Preprocessing** 
