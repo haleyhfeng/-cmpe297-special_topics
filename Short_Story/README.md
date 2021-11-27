@@ -10,7 +10,8 @@ This article aims to provide an overview on popular image generation technologie
 
 **Medium Title:** A Gentle Introduction to Multimodal Deep Learning for Image Synthesis
 
-**Link to Medium Post:** https://haleyhfeng.medium.com/a-gentle-introduction-to-deep-learning-in-proteomics-264cf8d7437d
+**Link to Medium Post:** https://medium.com/@haleyhfeng/a-gentle-introduction-to-multimodal-deep-learning-for-image-synthesis-f2045404b7e7
 
 **Video Presentation:** https://drive.google.com/file/d/1ygG2ZDJC4D0CHW-YTf8CYbxr3HBTp5Hz/view?usp=sharing
+
 
