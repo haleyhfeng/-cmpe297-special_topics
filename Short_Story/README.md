@@ -7,13 +7,14 @@ This article aims to provide an overview on popular image generation technologie
 * text-based colorization
 * multimodal medical image synthesis
 
-
 **Medium Title:** A Gentle Introduction to Multimodal Deep Learning for Image Synthesis
 
 **Link to Medium Post:** https://medium.com/@haleyhfeng/a-gentle-introduction-to-multimodal-deep-learning-for-image-synthesis-f2045404b7e7
 
+**PPT:** https://docs.google.com/presentation/d/1Tzi0sLc6np89EZp36MbvTWpAtjNRXHgj9ZSJFkRugXo/edit?usp=sharing
+
 **PDF Version:** https://docs.google.com/document/d/1jlf52usuYYdap5QAZ8T-gGcsMck9EAzOmXpK72Sj4S4/edit?usp=sharing
 
-**Video Presentation:** https://drive.google.com/file/d/1ygG2ZDJC4D0CHW-YTf8CYbxr3HBTp5Hz/view?usp=sharing
+**Video Presentation:** https://drive.google.com/file/d/1XhrUBSjbL_mjshVRwESSG4xf_4mo6CQs/view?usp=sharing
 
 
